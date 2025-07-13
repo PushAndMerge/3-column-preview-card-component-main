@@ -26,15 +26,6 @@ A responsive frontend challenge built with HTML and CSS. This project features a
 - CSS3
 - Flexbox
 
----
 
-## 📸 Preview
 
-![Preview Screenshot](assets/images/preview.png)
-
-*(Add a screenshot named `preview.png` inside `assets/images/`)*
-
----
-
-## 📁 Folder Structure
 
